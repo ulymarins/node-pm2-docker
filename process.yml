@@ -1,0 +1,5 @@
+apps:
+  - script   : 'server.js'
+    name     : 'REST API'
+    exec_mode: 'cluster'
+    instances: 4

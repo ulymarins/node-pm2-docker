@@ -1,0 +1,10 @@
+{
+  "name": "Node and PM2 Dockerized",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Uly",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
